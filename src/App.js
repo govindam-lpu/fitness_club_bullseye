@@ -6,7 +6,6 @@ import { useEffect, useState } from 'react';
 //   Link
 // } from 'react-router-dom';
 import './App.css';
-import MemberList from './MemberList';
 
 function App() {
 
